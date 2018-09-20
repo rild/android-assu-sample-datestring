@@ -1,1 +1,1 @@
-<img src="./images/image.png" with=350>
+<img src="./images/image.png" with="350">
